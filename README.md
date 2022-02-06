@@ -1,2 +1,2 @@
 # registro-promocion-empleo
-Tablas con llaves primarias, llaves foráneas, constraint, creado en Microsoft SQL server
+Este proyecto esta creado en base a Microsoft SQL server
