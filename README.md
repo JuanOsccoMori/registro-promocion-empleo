@@ -18,7 +18,7 @@ Se refiere a las tablas débiles, que contiene relación "One to Many", y la tab
 
 | Vinculo |                        
 | ------ |                         
-| id_Vinculo |   
+|PK| id_Vinculo |   
 
 | TipoDeDoc |
 | ------ |
