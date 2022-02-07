@@ -14,24 +14,25 @@ El proceso de normalización contiene tablas fuertes, tablas débiles y por últ
 Se refiere a las tablas débiles, que contiene relación "One to Many", y la tabla super débil contiene una relación “Many to Many”.
 
 
-| Vinculo | 
-| ------ |
-| id_Vinculo |
+**Tablas Fuertes**
+
+| Vinculo |         | TipoDeDoc |         | Grado |       | TipDeDeDiscap | 
+| ------ |          | ------ |            | ------ |      | ------ |
+| id_Vinculo |      | id_TipoDeDoc |      | id_Grado |    | id_tipoDeDiscap |
 
 
-| TipoDeDoc | 
-| ------ |
-| id_TipoDeDoc |
+
+**Tablas Debiles | Relacion One to Many**
 
 
-| Grado | 
-| ------ |
-| id_Grado |
 
 
-| TipDeDeDiscap | 
-| ------ |
-| id_tipoDeDiscap |
+
+
+**Tabla Super Debil | Relacion Many to Many**
+
+
+
 
 
 
