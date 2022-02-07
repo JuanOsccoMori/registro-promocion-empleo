@@ -91,14 +91,12 @@ Se refiere a las tablas débiles, que contiene relación "One to Many", y la tab
 | id_TipoDeDoc |
 | numeroDoc |
 
-
-
-
 **Tabla Super Debil | Relacion Many to Many**
 
-
-
-
+| TramiteProgramaDePromocionDelEmplo |
+| ------ |
+| id_Postulante |
+| id_DatosDelGrupoFamiliar |
 
 
 ### Diagrama en Microsoft SQL server
