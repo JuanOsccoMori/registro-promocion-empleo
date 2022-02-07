@@ -16,10 +16,21 @@ Se refiere a las tablas débiles, que contiene relación "One to Many", y la tab
 
 **Tablas Fuertes**
 
-| Vinculo |         | TipoDeDoc |         | Grado |       | TipDeDeDiscap | 
-| ------ |          | ------ |            | ------ |      | ------ |
-| id_Vinculo |      | id_TipoDeDoc |      | id_Grado |    | id_tipoDeDiscap |
+| Vinculo |                        
+| ------ |                         
+| id_Vinculo |   
 
+| TipoDeDoc |
+| ------ |
+| id_TipoDeDoc |
+
+| Grado |
+| ------ |
+| id_Grado |
+
+| TipDeDeDiscap | 
+| ------ |
+| id_tipoDeDiscap |
 
 
 **Tablas Debiles | Relacion One to Many**
