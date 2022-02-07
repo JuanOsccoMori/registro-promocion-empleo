@@ -40,6 +40,56 @@ Se refiere a las tablas débiles, que contiene relación "One to Many", y la tab
 **Tablas Debiles | Relacion One to Many**
 
 
+|NivDeEscolar|
+| ------ |
+| id_NiveldeEsc |
+| nombre |
+| CUE |
+| id_grado |
+| año_grado |
+
+|CuposEspeciales|
+| ------ |
+| id_CuposEspeciales |
+| DecDiscapaTransplat|
+| id_tipoDeDiscap |
+
+|DatosDelPostulante|
+| ------ |
+| id_Postulante |
+| id_DatosGenerales |
+| domicilio |
+| calle |
+| numero |
+| barrio |
+| dpto |
+| piso |
+| monoblock |
+| parcela |
+| c_postal |
+| localidad |
+| departamento |
+| id_NiveldeEsc |
+| id_CursosEsp |
+
+| Persona Postulante |
+| ------ |
+| id_DatosGenerales |
+| nombre |
+| apellidos |
+| sexo |
+| id_tipoDeDoc |
+| fecNacim |
+| telef |
+| correo |
+
+| DatosDelGrupoFamiliar |
+| ------ |
+| id_DatosDeGrupoFamiliar |
+| id_Vinculo |
+| descripcion |
+| id_TipoDeDoc |
+| numeroDoc |
 
 
 
