@@ -17,10 +17,10 @@ Se refiere a las tablas débiles, que contiene relación "One to Many", y la tab
 **Tablas Fuertes**
 
 
-| Vinculo | 
+|---| Vinculo | 
 | ------ |
-| id_Vinculo |
-| Vinculo |
+|pk| id_Vinculo |
+|---| Vinculo |
 
 | TipoDeDoc | 
 | ------ |
