@@ -19,22 +19,22 @@ Se refiere a las tablas débiles, que contiene relación "One to Many", y la tab
 
 | Vinculo | 
 | ------ |
-| id_Vinculo |
+| (pk) - id_Vinculo |
 | Vinculo |
 
 | TipoDeDoc | 
 | ------ |
-| id_TipoDeDoc |
+| (pk) - id_TipoDeDoc |
 | tipo |
 
 | Grado | 
 | ------ |
-| id_Grado |
+| (pk) - id_Grado |
 | grado |
 
 | TipDeDeDiscap | 
 | ------ |
-| id_tipoDeDiscap |
+| (pk) - id_tipoDeDiscap |
 | discpacidad |
 
 
