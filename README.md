@@ -22,11 +22,6 @@ Se refiere a las tablas débiles, que contiene relación "One to Many", y la tab
 | (pk) - id_Vinculo |
 | Vinculo |
 
-| TipoDeDoc | 
-| ------ |
-| (pk) - id_TipoDeDoc |
-| tipo |
-
 | Grado | 
 | ------ |
 | (pk) - id_Grado |
@@ -37,6 +32,10 @@ Se refiere a las tablas débiles, que contiene relación "One to Many", y la tab
 | (pk) - id_tipoDeDiscap |
 | discpacidad |
 
+| TipoDeDoc | 
+| ------ |
+| (pk) - id_TipoDeDoc |
+| tipo |
 
 **Tablas Debiles | Relacion One to Many**
 
